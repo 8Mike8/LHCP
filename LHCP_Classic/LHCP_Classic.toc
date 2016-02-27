@@ -1,0 +1,5 @@
+## Interface: 60200
+## Title: LHCP! -Sound Collection
+## Notes: Adapted by Flytrap 5/2/16
+## Dependencies: LeeroyHillCatsPower
+LHCP_pkg.xml
