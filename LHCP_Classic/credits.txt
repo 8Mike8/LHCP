@@ -1,0 +1,6 @@
+SOUND LIST
+
+/benny		- Theme from Benny Hill
+/power		- By the power of Greyskull, I have the power! (He-Man)
+/leeroy		- LEEROY JENKINS (Black Knight)
+/tcats		- Thunder, thunder, Thundercats HO! (Thundercats)
