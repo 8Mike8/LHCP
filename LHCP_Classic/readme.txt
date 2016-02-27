@@ -1,0 +1,22 @@
+new ones are:
+/nicola
+/waiting
+/buckleup
+/onepunchman
+/onepunch
+/nuclear
+/notprettygood
+/wilhelm
+/prettygood
+/whattook
+/treasure
+/rasputin
+/lucien
+/trex
+/simple
+/brother
+/defendme
+/fiddle
+/forgiveme
+/secret
+/tidus
